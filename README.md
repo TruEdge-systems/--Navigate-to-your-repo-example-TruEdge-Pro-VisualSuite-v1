@@ -1,4 +1,4 @@
-# --N# 🎛 TruEdge Pro™ Visual Suite — v1.0_LegacyDrop
+# 🎛 TruEdge Pro™ Visual Suite — v1.0_LegacyDrop
 
 This suite interprets tiered market behavior through rhythm-aware overlays.  
 Built in ThinkScript. Designed to pulse. Tuned for remix.
@@ -47,4 +47,4 @@ MIT — remix, reuse, and build your legacy.
 
 ---
 
-Want me to drop this into a file and help you upload it to your repo? Or generate a matching `ABOUT_THIS_DROP.md` to go deeper into your vision? Let’s keep the suite singing. ♊🔥avigate-to-your-repo-example-TruEdge-Pro-VisualSuite-v1
+Want me to drop this into a file and help you upload it to your repo? Or generate a matching `ABOUT_THIS_DROP.md` to go deeper into your vision? Let’s keep the suite singing. ♊🔥
